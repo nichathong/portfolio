@@ -3823,6 +3823,7 @@ textarea.form-control-lg {
 .dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
   color: #fff;
   background-color: #bd5d38;
+  /* background-color: #FAE033; */
 }
 .dropdown-menu-dark .dropdown-item.disabled, .dropdown-menu-dark .dropdown-item:disabled {
   color: #adb5bd;
@@ -4002,6 +4003,8 @@ textarea.form-control-lg {
 .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #bd5d38;
+  
+
 }
 
 .nav-fill > .nav-link,
